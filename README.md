@@ -1,0 +1,2 @@
+# Data-optimization-using-postgl
+This project exposes students to the administrative and analytical practice using PostgreSQL. As it teaches managing security, performance tuning, and analytical data modeling in PostgreSQL for enterprise-scale systems.
